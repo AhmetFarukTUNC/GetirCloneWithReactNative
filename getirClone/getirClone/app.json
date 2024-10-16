@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "getirClone",
-    "slug": "getirClone",
+    "name": "getirclone",
+    "slug": "getirclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "supportsTablet": true
     },
@@ -26,5 +23,8 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
+    
+      
+    
   }
 }

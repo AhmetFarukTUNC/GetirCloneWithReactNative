@@ -1,126 +1,162 @@
-export default [
-    {
-      id: "1",
-      name: "İndirimler",
-      src: "https://cdn.getir.com/cat/5fd8c58f3bdc2389a56e0fb0_2b1a70ca-4a4a-4477-adf1-7414a476aff8.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    }
-    ,{
-      id: "2",
-      name: "Su & İçecek",
-      src: "https://cdn.getir.com/cat/551430043427d5010a3a5c5e_1619242669958_1619242670038.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "3",
-      name: "Meyve & Sebze",
-      src: "https://cdn.getir.com/cat/5928113e616cab00041ec6de_1619242870968_1619242871055.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "4",
-      name: "Fırından",
-      src: "https://cdn.getir.com/cat/566eeb85f9facb0f00b1cb16_1619242817768_1619242817849.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "5",
-      name: "Temel Gıda",
-      src: "https://cdn.getir.com/cat/56dfcfba86004203000a870d_1619242834654_1619242834734.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "6",
-      name: "Atıştırmalık",
-      src: "https://cdn.getir.com/cat/56dfe03cf82055030022cdc0_1619242841966_1619242842053.jpeg",
-    },
-    {
-      id: "7",
-      name: "Dondurma",
-      src: "https://cdn.getir.com/cat/55bca8484dcda90c00e3aa80_1619242741382_1619242741482.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-    },
-    {
-      id: "8",
-      name: "Süt Ürünleri",
-      src: "https://cdn.getir.com/cat/5cfe685e25d48100016b7ea6_b05535e0-a936-4c79-8d89-10db178a928c.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "9",
-      name: "Kahvaltılık",
-      src: "https://cdn.getir.com/cat/61a78ebbdea800061135fd19_1ae7279d-6ab8-4ee1-b58b-9a29695ad314.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "10",
-      name: "Yiyecek",
-      src: "https://cdn.getir.com/cat/551430043427d5010a3a5c5d_1619242660025_1619242660107.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "11",
-      name: "Fit & Form",
-      src: "https://cdn.getir.com/cat/57e2996551f3ee030027e28b_1619242858559_1619242858642.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "12",
-      name: "Kişisel Bakım",
-      src: "https://cdn.getir.com/cat/551430043427d5010a3a5c5c_1619242651249_1619242651335.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "13",
-      name: "Evcil Hayvan",
-      src: "https://cdn.getir.com/cat/551430043427d5010a3a5c63_1619242711604_1619242711687.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "14",
-      name: "Bebek",
-      src: "https://cdn.getir.com/cat/551430043427d5010a3a5c5b_1619242620186_1619242620271.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "15",
-      name: "Cinsel Sağlık",
-      src: "https://cdn.getir.com/cat/559c07b093be370c0063dd29_a16cbca7-4f5a-46fc-8f45-45d8e899f57d.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "16",
-      name: "Ev Bakım",
-      src: "https://cdn.getir.com/cat/55449fdf02632e11003c2da8_1619242719523_1619242719602.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "17",
-      name: "Teknoloji",
-      src: "https://cdn.getir.com/cat/551430043427d5010a3a5c62_1619242697597_1619242697702.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-    {
-      id: "18",
-      name: "Ev & Yaşam",
-      src: "https://cdn.getir.com/cat/5b06b056b883b700044e3e4c_1619242916956_1619242917048.jpeg",
-      subCategories:["Birlikte İyi Gider","Çubuk","Kutu","Külah","Çoklu","Bar"]
-  
-    },
-  ];
-  
+export default [{
+    id: '1',
+    "image": "https://cdn.getir.com/product/5ced4830d349d10001e7055f_tr_1584536178243.jpeg",
+    "images":["https://cdn.getir.com/product/5ced4830d349d10001e7055f_tr_1584536178243.jpeg"],
+    "name": "Granny Smith Elma",
+    "miktar": "1 kg",
+    "fiyat": 13.95,
+    "fiyatIndirimli": 12.45,
+  },{
+    id: '2',
+    "image": "https://cdn.getir.com/product/5ce6581ffd9b330001c4a925_tr_1561363752890.jpeg",
+    "images":["https://cdn.getir.com/product/5ce6581ffd9b330001c4a925_tr_1561363752890.jpeg"],
+    "name": "Dilimlenmiş Hindistan Cevizi",
+    "miktar": "40 g",
+    "fiyat": 8.95,
+    "fiyatIndirimli": 7.75,
+  },{
+    id: '3',
+    "image": "https://cdn.getir.com/product/61e8237ddaafed5cc5f4c9f8_tr_1643885762259.jpeg",
+    "images":["https://cdn.getir.com/product/61e8237ddaafed5cc5f4c9f8_tr_1643885762259.jpeg",
+  "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Düet Kırmızı Meyveler",
+    "miktar": "100 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 10.45,
+
+  },{
+    id: '4',
+    "image": "https://cdn.getir.com/product/559fed86f462100c00461d8b_tr_1618323792467.jpeg",
+    "images":["https://cdn.getir.com/product/559fed86f462100c00461d8b_tr_1618323792467.jpeg",
+    "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Classic",
+    "miktar": "100 ml",
+    "fiyat": 10.75,
+    "fiyatIndirimli": 9.45,
+
+  },{
+    id: '5',
+    "image": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+    "images":["https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+    "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Badem",
+    "miktar": "100 ml",
+    "fiyat": 10.75,
+    "fiyatIndirimli": 10.45,
+
+  },{
+    id: '6',
+    "image": "https://cdn.getir.com/product/5e17391e5940577fa354b2a3_tr_1618323966862.jpeg",
+    "images":["https://cdn.getir.com/product/5e17391e5940577fa354b2a3_tr_1618323966862.jpeg",
+  "https://cdn.getir.com/product/579b4079ec619403005140d7_e45dd560-5dc5-413c-92ec-53f176415d62.jpeg",
+  "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Cookie",
+    "miktar": "95 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 10.45,
+
+  },
+  {
+    id: '7',
+    "image": "https://cdn.getir.com/product/58d38fbd09492e0004044254_tr_1618323822610.jpeg",
+    "images":["https://cdn.getir.com/product/58d38fbd09492e0004044254_tr_1618323822610.jpeg",
+    "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Beyaz",
+    "miktar": "100 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 9.45
+    
+  },
+  {
+    id: '8',
+    "image": "https://cdn.getir.com/product/579b4033ec61940300514099_tr_1618323887986.jpeg",
+    "images":["https://cdn.getir.com/product/579b4033ec61940300514099_tr_1618323887986.jpeg",
+    "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Double Çikolata",
+    "miktar": "95 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 10.45,
+
+  },
+  {
+    id: '9',
+    "image": "https://cdn.getir.com/product/579b4079ec619403005140d7_tr_1618323916323.jpeg",
+    "images":["https://cdn.getir.com/product/579b4079ec619403005140d7_tr_1618323916323.jpeg",
+    "https://cdn.getir.com/product/559fec01f462100c00461d5c_809628d3-2df0-4341-8853-4407bcec97fb.jpeg"],
+    "name": "Magnum Double Karadut",
+    "miktar": "95 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 9.45,
+
+  },
+  {
+    id: '10',
+    "image": "https://cdn.getir.com/product/6045e5aa247536690035d115_tr_1615200549529.jpeg",
+    "images":["https://cdn.getir.com/product/6045e5aa247536690035d115_tr_1615200549529.jpeg"],
+    "name": "Snickers Çubuk Dondurma",
+    "miktar": "91 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 10.45,
+
+  },
+  {
+    id: '11',
+    "image": "https://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg",
+    "images":["https://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg"],
+    "name": "Golf Bravo Karamel Dore",
+    "miktar": "100 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 9.45,
+
+  },
+  {
+    id: '12',
+    "image": "https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg",
+    "images":["https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg"],
+    "name": "Golf Bravo Red Velvet",
+    "miktar": "100 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 10.45,
+
+  },
+  {
+    id: '13',
+    "image": "https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg",
+    "images":["https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg"],
+    "name": "Golf Bravo Karadut",
+    "miktar": "100 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 9.45,
+
+  },  
+  {
+    id: '14',
+    "image": "https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg",
+    "images":["https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg"],
+    "name": "Golf Bravo Red Velvet",
+    "miktar": "100 ml",
+    "fiyat": 11.22,
+    "fiyatIndirimli": 10.45,
+
+  },
+  {
+    id: '15',
+    "image": "https://cdn.getir.com/product/60ac9f7e8dc3cf6d1a198940_tr_1622029363093.jpeg",
+    "images":["https://cdn.getir.com/product/60ac9f7e8dc3cf6d1a198940_tr_1622029363093.jpeg"],
+    "name": "Pernigotti Karamel & Badem",
+    "miktar": "100 ml",
+    "fiyat": 11.69,
+    "fiyatIndirimli": 10.45,
+
+  },
+  {
+    id: '16',
+    "image": "https://cdn.getir.com/product/6155b40b8587c44c503704e7_tr_1633015518449.jpeg",
+    "images":["https://cdn.getir.com/product/6155b40b8587c44c503704e7_tr_1633015518449.jpeg"],
+    "name": "Pernigotti Fındık",
+    "miktar": "100 ml",
+    "fiyat": 11.69,
+    "fiyatIndirimli": 10.45,
+
+  }
+]
